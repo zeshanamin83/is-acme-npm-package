@@ -1,0 +1,22 @@
+{
+  "name": "@dev-simplified/is-acme",
+  "version": "1.0.0",
+  "description": "Is the string ACME?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeshanamin83/is-acme-npm-package.git"
+  },
+  "keywords": [
+    "ACME"
+  ],
+  "author": "Zeshan Amin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeshanamin83/is-acme-npm-package/issues"
+  },
+  "homepage": "https://github.com/zeshanamin83/is-acme-npm-package#readme"
+}
